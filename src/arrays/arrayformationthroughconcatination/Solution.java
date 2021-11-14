@@ -1,4 +1,4 @@
-package other.arrayformationthroughconcatination;
+package arrays.arrayformationthroughconcatination;
 
 import java.util.ArrayList;
 import java.util.List;
